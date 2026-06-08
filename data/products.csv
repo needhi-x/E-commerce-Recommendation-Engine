@@ -1,0 +1,11 @@
+id,name,category,price,rating,image_url
+1,iPhone 14,electronics,79999,4.8,https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg
+2,MacBook Air,electronics,99999,4.7,https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg
+3,Laptop HP,electronics,55000,4.5,https://m.media-amazon.com/images/I/71TPda7cwUL._SX679_.jpg
+4,T-Shirt Nike,clothing,1999,4.2,https://m.media-amazon.com/images/I/61hZ9s7sVSL._UX679_.jpg
+5,Jeans Levis,clothing,2999,4.3,https://m.media-amazon.com/images/I/71zZJ7qfZML._UX679_.jpg
+6,Hoodie Puma,clothing,2499,4.1,https://m.media-amazon.com/images/I/61k7bQkQ2SL._UX679_.jpg
+7,Watch Titan,accessories,4999,4.6,https://m.media-amazon.com/images/I/71zfpkr4e3L._UY679_.jpg
+8,Sunglasses Rayban,accessories,3499,4.4,https://m.media-amazon.com/images/I/61j6k0G7JBL._UX679_.jpg
+9,Backpack Skybags,accessories,1999,4.2,https://m.media-amazon.com/images/I/81k6C0y6oIL._UX679_.jpg
+10,Headphones Sony,electronics,6999,4.6,https://m.media-amazon.com/images/I/61v0V8hV3pL._SX679_.jpg
